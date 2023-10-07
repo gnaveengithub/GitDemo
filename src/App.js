@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Naveen and Bhavani
+          Learn React with Naveen, Vaishnavi  and Bhavani
         </a>
       </header>
     </div>
